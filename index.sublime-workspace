@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exce",
+				"Exception"
+			],
+			[
+				"re",
+				"result3"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"pap",
+				"paper_bsc"
+			],
+			[
+				"paper",
+				"paper_bca"
+			],
+			[
+				"ba",
+				"backbenchers"
+			],
+			[
+				"text",
+				"text-primary"
+			],
+			[
+				"email",
+				"Email"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"co",
+				"col-sm-6"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"std",
+				"standard"
+			],
+			[
+				"file",
+				"filetoupload"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"imag",
+				"imagename"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"se",
+				"session_destroy"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"name",
+				"nameerr"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"strip",
+				"stripos"
+			],
+			[
+				"pp",
+				"PDF_pcos_get_stream"
+			],
+			[
+				"cl",
+				"colspan\tAttr"
+			],
+			[
+				"H",
+				"HTTP_USER_AGENT"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"gl",
+				"glyhicon-user"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"carousel",
+				"carousel-control"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"app",
+				"app-btn"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"list-gr",
+				"list-group-item"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"pan",
+				"pandel-body"
+			],
+			[
+				"list",
+				"list-group-item"
+			],
+			[
+				"label-",
+				"label-warning"
+			],
+			[
+				"glyphicon",
+				"glyphicon-envelope"
+			],
+			[
+				"gly",
+				"glyphicon"
+			],
+			[
+				"we",
+				"website"
+			],
+			[
+				"ale",
+				"alert-info"
+			],
+			[
+				"al",
+				"alert-success"
+			],
+			[
+				"page",
+				"page-header"
+			],
+			[
+				"table",
+				"table-resposive"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"r",
+				"result2"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"oop",
+				"operator"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"hea",
+				"heading"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bakground-c",
+				"background-color\tproperty"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"mag",
+				"margin\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"shi",
+				"shirtP"
+			],
+			[
+				"jean",
+				"jeansP"
+			],
+			[
+				"jeans",
+				"jeansC"
+			],
+			[
+				"je",
+				"jeansP"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 243.199996948,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dell/Desktop/python_program/sublime text/log.py",
+		"/C/Users/Dell/Desktop/python_program/sublime text/emp.dat",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dell/Desktop/python_program/sublime text/test.py",
+		"/C/Users/Dell/Desktop/java/box.java",
+		"/C/Users/Dell/Desktop/passwords/passwords",
+		"/C/Users/Dell/Desktop/bsc3_math3.pdf",
+		"/C/Users/Dell/Desktop/student.java",
+		"/C/Users/Dell/Desktop/example.java",
+		"/C/Users/Dell/Desktop/pack2/student.class",
+		"/C/Users/Dell/Desktop/website/student.java",
+		"/C/Users/Dell/Desktop/website/backbenchers.html",
+		"/C/Users/Dell/Desktop/website/sign_up.html",
+		"/C/Users/Dell/Desktop/website/login.html",
+		"/C/Users/Dell/Desktop/mysql-connector.jar",
+		"/G/projects/login.php",
+		"/G/projects/addstudent.php",
+		"/C/Users/Dell/Desktop/website/paper_bca.html",
+		"/C/Users/Dell/Desktop/website/paper_bsc.html",
+		"/C/Users/Dell/Desktop/website/about.html",
+		"/C/Users/Dell/Desktop/website/dropdown.html",
+		"/C/Users/Dell/Desktop/website/backbenchers.css",
+		"/C/xampp/htdocs/projects/addstudent.php",
+		"/C/xampp/htdocs/projects/updatestudent.php",
+		"/C/Users/Dell/Desktop/website/bootstrap_basic_template.txt",
+		"/C/xampp/htdocs/example/filter.php",
+		"/C/xampp/htdocs/example/view.php",
+		"/C/xampp/htdocs/example/fileupload.php",
+		"/C/xampp/htdocs/projects/updateform.php",
+		"/C/xampp/htdocs/projects/updatedata.php",
+		"/C/xampp/htdocs/projects/style.css",
+		"/C/xampp/htdocs/projects/dbcon.php",
+		"/C/xampp/htdocs/projects/titlehead.php",
+		"/C/xampp/htdocs/projects/admindash.php",
+		"/C/xampp/htdocs/projects/logout.php",
+		"/C/xampp/htdocs/testing/validate.php",
+		"/C/Users/Dell/Desktop/website2/exam_guide_home.html",
+		"/C/Users/Dell/Desktop/website2/exam_guide.css",
+		"/C/Users/Dell/Desktop/uploadfile.php",
+		"/C/Users/Dell/Desktop/file_upload.html",
+		"/C/Users/Dell/Desktop/file_upload.php.html",
+		"/C/Users/Dell/Desktop/upload.php",
+		"/C/Users/Dell/Desktop/file_upload.php",
+		"/C/xampp/php/php.ini-development",
+		"/C/xampp/htdocs/projects/header.php",
+		"/C/xampp/htdocs/projects/login.php",
+		"/C/xampp/htdocs/projects/userdata.php",
+		"/C/xampp/htdocs/projects/index2.php",
+		"/C/Users/Dell/Desktop/test.html",
+		"/C/xampp/htdocs/projects/admin/admindash.php",
+		"/C/xampp/htdocs/projects/index.php",
+		"/C/xampp/htdocs/projects/userdata.html",
+		"/C/xampp/htdocs/projects/table_create.php",
+		"/C/xampp/htdocs/projects/insert_bca.php",
+		"/C/xampp/htdocs/projects/update_table.php",
+		"/C/xampp/htdocs/projects/insert_bca",
+		"/C/xampp/htdocs/projects/welcome.php",
+		"/C/xampp/htdocs/projects/test.php",
+		"/C/xampp/php/php.ini-production",
+		"/C/xampp/htdocs/projects/dbconnection.php",
+		"/C/xampp/htdocs/projects/footer.php",
+		"/C/xampp/htdocs/projects/function.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/projects/01 project/index.html.txt",
+		"/C/Users/Dell/Desktop/website/mr_phone_gap.html",
+		"/C/Users/Dell/Desktop/website/mr_phone_gap.css",
+		"/C/Users/Dell/Desktop/website/syllabus_bca.html",
+		"/C/Users/Dell/Desktop/website/carousel.html",
+		"/C/Users/Dell/Desktop/website/index.html",
+		"/C/Users/Dell/Desktop/website/mr_phone_gap.htnl",
+		"/C/Users/Dell/Desktop/website/test.html",
+		"/C/Users/Dell/Desktop/website/nav_bar.html",
+		"/C/Users/Dell/Desktop/website/bootstrap_basic_template.html",
+		"/C/Users/Dell/Desktop/website/cshome.css",
+		"/C/Users/Dell/Desktop/website/cshome.html",
+		"/C/Users/Dell/Desktop/backbenchers.com/cshome.html",
+		"/C/Users/Dell/Desktop/website/stylesheet.css",
+		"/C/Users/Dell/Desktop/bootstrap-3.3.7-dist/indes.html",
+		"/C/Users/Dell/Desktop/bca hackers/syllabus.html",
+		"/C/Users/Dell/Desktop/backbenchers.com/test.css",
+		"/C/Users/Dell/Desktop/backbenchers.com/test.html",
+		"/C/Users/Dell/Desktop/New folder/room.html",
+		"/C/Users/Dell/Desktop/backbenchers.com/cshome.css",
+		"/C/Users/Dell/Desktop/New folder/room.css",
+		"/C/Users/Dell/Desktop/k.css",
+		"/C/Users/Dell/Desktop/bca hackers/cshome.css",
+		"/C/Users/Dell/Desktop/bca hackers/cshome.html",
+		"/C/Users/Dell/Desktop/cshome.html",
+		"/C/Users/Dell/Desktop/cshome.css",
+		"/C/Users/Dell/Desktop/New folder/hnbar.html",
+		"/C/Users/Dell/Desktop/New folder/hnbar.css",
+		"/C/Users/Dell/Desktop/k.html",
+		"/C/Users/Dell/Desktop/New folder/vnbar.html",
+		"/C/Users/Dell/Desktop/New folder/vnbar.css",
+		"/C/Users/Dell/Desktop/New folder/k.html",
+		"/C/Users/Dell/Desktop/k.",
+		"/C/Users/Dell/Desktop/New folder/test.html",
+		"/C/Users/Dell/Desktop/New folder/switch_in _js.html",
+		"/C/Users/Dell/Desktop/49048676.html",
+		"/C/Users/Dell/Desktop/New folder/if_else_if_javascript.html",
+		"/C/Users/Dell/Desktop/New folder/javascript3.html",
+		"/C/Users/Dell/Desktop/New folder/javascript4.html",
+		"/C/Users/Dell/Desktop/New folder/javascript5.html",
+		"/C/Users/Dell/Desktop/New folder/if_statement_in_javascript.html",
+		"/C/Users/Dell/Desktop/New folder/new.js",
+		"/C/Users/Dell/Desktop/New folder/javascript2.html",
+		"/C/Users/Dell/Desktop/New folder/javascript1.html",
+		"/C/Users/Dell/Desktop/New folder/index.html",
+		"/C/Users/Dell/Desktop/New folder/home.html",
+		"/C/Users/Dell/Desktop/New folder/stylehome.css",
+		"/C/Users/Dell/Desktop/New folder/custom.css",
+		"/C/Users/Dell/Desktop/html files/signup.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 170.4,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
